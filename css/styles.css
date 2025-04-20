@@ -469,7 +469,7 @@ transform: translateY(0%);
 
 .div-footer {
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
 
 }
 
