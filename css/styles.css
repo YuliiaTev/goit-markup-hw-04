@@ -231,6 +231,7 @@ align-items: center;
     background-size: cover;
     max-width: 1440px;
     background-position: center;
+    margin: 0 auto;
     }
 
     .btn-hero{
